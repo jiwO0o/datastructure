@@ -3,7 +3,6 @@
 
 
 void print_int(void *elem) {
-	
 	printf("%d ", *(int *)elem);
 }
 
