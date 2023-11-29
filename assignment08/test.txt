@@ -1,0 +1,10 @@
+a	F	36
+b	F	235
+c	F	16
+d	M	34
+e	M	202
+f	F	12
+g	F	31
+h	M	57
+i	M	22
+j	M	40
